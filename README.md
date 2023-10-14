@@ -1,2 +1,9 @@
-# api-rest
-API REST criado através do conteúdo gratuito disponibilizado pela DevSuperior e ministrado pelo Nélio Alves
+# API REST
+## Tecnologias utilizadas
+### Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- Postman
+- Xampp
